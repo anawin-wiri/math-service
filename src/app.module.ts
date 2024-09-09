@@ -9,4 +9,4 @@ import { MathService } from './math/math.service';
   controllers: [AppController, MathController],
   providers: [AppService, MathService],
 })
-export class AppModule {}
+export class AppModule { }
